@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasan
 - 👀 I’m interested in web development and artificial intelligence
-- 🌱 I’m currently improving on React.js, NodeJS, Java, swift and Python.
+- 🌱 I’m currently improving my skills on React.js, NodeJS, Java, swift and Python.
 - 💞️ I’m love to collaborate on different project with people
 - 📫 Reach me on linkedin https://linkedin.com/in/hasanaq
 
