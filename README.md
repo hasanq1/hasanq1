@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hasan
-- 👀 I’m interested in web development and artificial intelligence
-- 🌱 I’m currently improving my skills on React.js, NodeJS, Java, swift and Python.
-- 💞️ I’m love to collaborate on different project with people
+- 👀 I’m a software engineer who specializes in web development, Artificial intelligence, and Technical Project Management
+- 👀 Infastructure I've delpyed on are Netlify, AWS Cloud console S3, etc. and also github pages.
+- 🌱 I’m currently experimenting with Remix.run and also Refine.dev frameworks. **(We all know there a new web dev framework released every year and its overwhelming but thats the fun in things.)
+- 💞️ I enjoy leading projects deom concetion to completion, competitve programming, capability development with microservices, and also building dashboards.
 - 📫 Reach me on linkedin https://linkedin.com/in/hasanaq
 
 <!---
