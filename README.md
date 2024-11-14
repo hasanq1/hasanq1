@@ -2,7 +2,7 @@
 - 👀 I’m a software engineer who specializes in web development, Artificial intelligence, and Technical Project Management
 - 👀 Infastructure I've delpoyed on are Netlify, AWS Cloud Console, and also github pages.
 - 🌱 I’m currently experimenting with Remix.run and also Refine.dev frameworks. **(We all know there a new web dev framework released every year and its overwhelming but thats the fun in things.)
-- 💞️ I enjoy leading projects deom concetion to completion, competitve programming, capability development with microservices, and also building dashboards.
+- 💞️ I enjoy leading projects from conception to completion, competitve programming, capability development with microservices, and also building dashboards.
 - 📫 Reach me on linkedin https://linkedin.com/in/hasanaq
 
 <!---
